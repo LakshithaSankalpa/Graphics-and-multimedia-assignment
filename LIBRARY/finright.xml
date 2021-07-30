@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="finright" itemID="5e8ea2e8-00000166" lastModified="1586406120">
+  <timeline>
+    <DOMTimeline name="finright">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fingers.psd copy" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-372" ty="-57"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="407.5" y="90"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

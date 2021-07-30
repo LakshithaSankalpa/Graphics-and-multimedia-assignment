@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 118" itemID="5ee998a9-000001cb" lastModified="1592376278">
+  <timeline>
+    <DOMTimeline name="Symbol 118">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="528.95" height="405.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LET'S &#xD;GET &#xD;TOGETHER &#xD;&amp; &#xD;DEFEAT &#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="60" bitmapSize="1200" face="TwCenMT-CondensedExtraBold" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>COVID 19</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="65" bitmapSize="1300" face="TwCenMT-CondensedExtraBold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

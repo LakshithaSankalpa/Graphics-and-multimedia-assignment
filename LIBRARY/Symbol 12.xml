@@ -1,0 +1,155 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 12" itemID="5e881695-000000ce" lastModified="1585976981" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Symbol 12">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true" animationType="IK pose">
+          <frames>
+            <DOMFrame index="0" duration="50" tweenType="IK pose" keyMode="9732" isIKPose="true" poseLocations="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="D" name="ikNode_6" referenceID="BDA2E0BB-271F-0346-9464-E8FDF9678FA6" selected="true" centerPoint3DX="495.5" centerPoint3DY="312.95">
+                  <matrix>
+                    <Matrix tx="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12" y="59.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="C" name="ikNode_7" referenceID="B2B39DDD-8365-E24C-8ED1-275453D8A5C6" selected="true" centerPoint3DX="453" centerPoint3DY="290.95">
+                  <matrix>
+                    <Matrix ty="32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <betweenFrameMatrixList>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+                <Matrix/>
+              </betweenFrameMatrixList>
+              <IKTree name="Armature_43" treeName="ikTreeName44" physicsEnabled="true">
+                <IKNode name="ikNode_6" boneName="ikBoneName42" location="#134CD.F1, #1A08.FA" referenceID="BDA2E0BB-271F-0346-9464-E8FDF9678FA6" speed="1">
+                  <childNodes>
+                    <ChildNode name="ikNode_6" boneName="ikBoneName45" location="#134CD.F1, #1A08.FA" xArray="300.000000" yArray="0.000000" angleArray="0.000000" referenceID="BDA2E0BB-271F-0346-9464-E8FDF9678FA6" speed="1">
+                      <states>
+                        <State duration="50" x="540" y="1190" xRel="540" yRel="1190"/>
+                      </states>
+                      <childNodes>
+                        <ChildNode name="ikNode_7" boneName="ikBoneName46" location="#148F4.C5, #1A27.6" xArray="0.000000" yArray="640.000000" angleArray="0.000000" referenceID="B2B39DDD-8365-E24C-8ED1-275453D8A5C6" speed="1">
+                          <states>
+                            <State duration="50"/>
+                          </states>
+                        </ChildNode>
+                      </childNodes>
+                    </ChildNode>
+                  </childNodes>
+                </IKNode>
+                <states>
+                  <IKState duration="50"/>
+                </states>
+              </IKTree>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

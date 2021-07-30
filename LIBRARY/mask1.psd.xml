@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mask1.psd" itemID="5e88bff4-0000035f" symbolType="graphic" lastModified="1586427987">
+  <timeline>
+    <DOMTimeline name="mask1.psd">
+      <layers>
+        <DOMLayer name="Layer 0" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="mask1.psd Assets/Layer 0">
+                  <matrix>
+                    <Matrix ty="138"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="332" y="374.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

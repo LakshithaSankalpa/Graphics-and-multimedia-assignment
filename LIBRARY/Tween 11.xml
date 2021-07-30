@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 11" itemID="5ee9b69d-0000022d" symbolType="graphic" lastModified="1592374941">
+  <timeline>
+    <DOMTimeline name="Tween 11">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="vector map.png">
+                  <matrix>
+                    <Matrix a="0.535110473632813" d="0.480743408203125" tx="-509.8" ty="-124.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="258.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="vector map.png">
+                  <matrix>
+                    <Matrix a="0.535110473632813" d="0.480743408203125" tx="-3.85" ty="-123.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="258.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

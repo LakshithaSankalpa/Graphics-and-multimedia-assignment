@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Screenshot_20200408-202809.psd copy" itemID="5e8ded19-00000104" symbolType="graphic" lastModified="1586359575">
+  <timeline>
+    <DOMTimeline name="Screenshot_20200408-202809.psd copy">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Screenshot_20200408-202809.psd Assets 1/Layer 2">
+                  <matrix>
+                    <Matrix tx="1214" ty="578"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

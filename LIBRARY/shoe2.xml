@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shoe2" itemID="5ee0c126-00000325" lastModified="1591787814">
+  <timeline>
+    <DOMTimeline name="shoe2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boy shoe.psd copy" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.181289672851563" b="-0.181289672851563" c="0.147308349609375" d="-0.147308349609375" tx="107.2" ty="211.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="302.55" y="353"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

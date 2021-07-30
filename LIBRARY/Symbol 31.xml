@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 31" itemID="5e8ea91f-00000205" lastModified="1586407711">
+  <timeline>
+    <DOMTimeline name="Symbol 31">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tissue.psd" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.363006591796875" d="0.32049560546875" tx="-15.6" ty="-13.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="123" y="197.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

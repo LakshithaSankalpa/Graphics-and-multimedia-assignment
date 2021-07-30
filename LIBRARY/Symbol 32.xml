@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 32" itemID="5e8ec2ee-0000027d" lastModified="1586414318">
+  <timeline>
+    <DOMTimeline name="Symbol 32">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="man.jpg">
+                  <matrix>
+                    <Matrix a="0.847061157226563" d="0.943267822265625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85" y="141"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

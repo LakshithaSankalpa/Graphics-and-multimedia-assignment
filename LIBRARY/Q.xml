@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Q" itemID="5e8817ea-00000137" lastModified="1585977322">
+  <timeline>
+    <DOMTimeline name="Q">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="leg.psd" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-449" ty="-570"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="476" y="597.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 7" itemID="5e80d8d0-00000de1" lastModified="1585502416">
+  <timeline>
+    <DOMTimeline name="Symbol 7">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMSymbolInstance libraryItemName="virus 1.psd" selected="true" symbolType="graphic" loop="loop">
+                          <matrix>
+                            <Matrix a="0.139495849609375" d="0.176681518554688" tx="-1.55" ty="-11.85"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="262" y="315.8"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="virus 1.psd" selected="true" symbolType="graphic" loop="loop">
+                          <matrix>
+                            <Matrix a="0.139495849609375" d="0.176681518554688" tx="50.45" ty="18.15"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="1401.85" y="672.4"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="virus 1.psd" selected="true" symbolType="graphic" loop="loop">
+                          <matrix>
+                            <Matrix a="0.139495849609375" d="0.176681518554688" tx="113.5" ty="-4.85"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="262" y="315.8"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

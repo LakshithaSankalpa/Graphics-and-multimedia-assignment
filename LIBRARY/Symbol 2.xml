@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 2" itemID="5e803911-00000215" lastModified="1585461521">
+  <timeline>
+    <DOMTimeline name="Symbol 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Screenshot_20200328-185248_Gallery.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.185150146484375" d="0.18133544921875" tx="53.5"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="280.05" y="242.9"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Screenshot_20200328-185248_Gallery.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.185150146484375" d="0.18133544921875" tx="133.55" ty="42.95"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="280.05" y="242.9"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Screenshot_20200328-185248_Gallery.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.185150146484375" d="0.18133544921875" tx="63.5" ty="83.95"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="280.05" y="242.9"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMSymbolInstance libraryItemName="Screenshot_20200328-185248_Gallery.psd" selected="true" symbolType="graphic" loop="loop">
+                          <matrix>
+                            <Matrix a="0.185150146484375" d="0.18133544921875" tx="-4.8" ty="42.95"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="280.05" y="242.9"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

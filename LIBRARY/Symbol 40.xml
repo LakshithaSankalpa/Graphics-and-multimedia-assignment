@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 40" itemID="5e8ec59e-00000295" lastModified="1586415006">
+  <timeline>
+    <DOMTimeline name="Symbol 40">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix tx="-137" ty="-36.55"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true">
+                      <matrix>
+                        <Matrix tx="-137" ty="-36.55"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="13.8">
+                            <fill>
+                              <SolidColor color="#FF0000"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!8339 1020S4|8759 1520!8759 1520|8299 2000!8759 1520|2740 1520!2740 1520|3360 2000!2740 1520|3280 1100"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText selected="true" width="147" height="37.9" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="73.95" ty="2"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>2m  (6Feet)</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

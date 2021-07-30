@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 7" itemID="5ee24cd6-00000278" symbolType="graphic" lastModified="1591889110">
+  <timeline>
+    <DOMTimeline name="Tween 7">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-172.25" ty="-234.35"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="10.75">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!11435 4501S2[11136 4497 10922 4283!10922 4283[10725 4086 10707 3815!10707 3815[10705 3795 10705 3774!10705 3774[10705 3770 10705 3766!10705 3766|10705 3760!10705 3760[10705 3759 10705 3758!10705 3758[10705 3747 10706 3736!10706 3736
+[10706 3726 10706 3717!10706 3717[10716 3519 10819 3360!10819 3360[10860 3297 10915 3240!10915 3240[10919 3236 10922 3233!10922 3233[10929 3226 10936 3220!10936 3220[10970 3187 11006 3160!11006 3160[11196 3015 11447 3015!11447 3015[11746
+ 3015 11960 3220!11960 3220[11966 3226 11973 3233!11973 3233[12175 3436 12189 3717!12189 3717[12189 3726 12190 3736!12190 3736[12190 3747 12190 3758!12190 3758[12190 3759 12190 3760!12190 3760|12190 3774!12190 3774[12190 3795 12188 3815
+!12188 3815[12170 4086 11973 4283!11973 4283[11758 4498 11455 4501!11455 4501[11454 4501 11452 4501!11452 4501[11450 4501 11447 4501!11447 4501[11441 4501 11435 4501"/>
+                    <Edge strokeStyle="1" edges="
+!11435 4501S4|11435 6360"/>
+                    <Edge strokeStyle="2" edges="
+!-5299 3685S4[#FFEB4C.06 #E6A.01 -5300 3695!-5300 3695[#FFEB4C.1F #E75.4D -5299.5 3707.5!-3471 3685|-3470 3695!-3470 3695[#FFF271.E1 #E75.39 -3470.5 3707.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

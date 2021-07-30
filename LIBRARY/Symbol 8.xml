@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 8" itemID="5e82f9c9-0000029d" lastModified="1585641929">
+  <timeline>
+    <DOMTimeline name="Symbol 8">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="water.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.1072998046875" d="0.200790405273438" tx="128.4" ty="24"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="360.2" y="249"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMSymbolInstance libraryItemName="water.psd" selected="true" symbolType="graphic" loop="loop">
+                              <matrix>
+                                <Matrix a="0.1072998046875" d="0.200790405273438" tx="72.95"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="360.2" y="249"/>
+                              </transformationPoint>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="water.psd" selected="true" symbolType="graphic" loop="loop">
+                              <matrix>
+                                <Matrix a="0.1072998046875" d="0.200790405273438" tx="12.9" ty="38.5"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="360.2" y="249"/>
+                              </transformationPoint>
+                            </DOMSymbolInstance>
+                            <DOMSymbolInstance libraryItemName="water.psd" selected="true" symbolType="graphic" loop="loop">
+                              <matrix>
+                                <Matrix a="0.1072998046875" d="0.200790405273438" tx="61.95" ty="76"/>
+                              </matrix>
+                              <transformationPoint>
+                                <Point x="360.2" y="249"/>
+                              </transformationPoint>
+                            </DOMSymbolInstance>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

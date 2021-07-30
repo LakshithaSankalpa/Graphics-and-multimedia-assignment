@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 26" itemID="5e8df050-00000169" lastModified="1586360400">
+  <timeline>
+    <DOMTimeline name="Symbol 26">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Screenshot_20200408-202809.psd" referenceID="74DA6841-45FC-AD4E-A8D3-E819D95EEDF5" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-34" ty="-273"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="110" y="334.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

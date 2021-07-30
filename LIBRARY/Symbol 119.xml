@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 119" itemID="5ee9b222-00000203" lastModified="1592373794">
+  <timeline>
+    <DOMTimeline name="Symbol 119">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="vector map.png">
+                  <matrix>
+                    <Matrix a="-0.535110473632813" d="0.480743408203125" tx="1019.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="258.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="vector map.png">
+                  <matrix>
+                    <Matrix a="-0.535110473632813" d="0.480743408203125" tx="513.7" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="258.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

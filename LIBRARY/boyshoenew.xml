@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="boyshoenew" itemID="5ee0c6f8-00000364" lastModified="1591789304">
+  <timeline>
+    <DOMTimeline name="boyshoenew">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boy shoenew.psd" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.204696655273438" d="0.2264404296875" ty="-18.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="329.5" y="377.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

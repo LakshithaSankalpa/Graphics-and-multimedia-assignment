@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 15" itemID="5e881d23-00000201" lastModified="1585978659" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 15">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 13" name="ikNode_15" referenceID="C9637088-3C4D-FE40-BE0E-97FC7D70C5CA" selected="true" centerPoint3DX="64.5" centerPoint3DY="81.5">
+                  <transformationPoint>
+                    <Point x="64.5" y="81.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

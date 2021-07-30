@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 1" itemID="5e8822da-0000021c" symbolType="graphic" lastModified="1585980122">
+  <timeline>
+    <DOMTimeline name="Tween 1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="leg.psd copy" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-9.85" ty="-318.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="334" y="506.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="leg.psd copy 2" referenceID="02DAF1DA-78B7-714E-933C-AE8A76AA74E0" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-218.85" ty="-254.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="547" y="509"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="boy.psd copy" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.522857666015625" d="0.50286865234375" tx="11.15" ty="-48.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="350" y="348"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="boy.psd copy 2" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-61.85" ty="-170.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="350" y="348"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="boy.psd copy 3" selected="true" symbolType="graphic" animationSymbolMode="0" animationFrameOffset="0" loop="loop">
+                  <matrix>
+                    <Matrix a="0.45806884765625" d="0.452041625976563" tx="-101.75" ty="8.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="360.55" y="343"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

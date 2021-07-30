@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 10" itemID="5e82f9f4-000002a4" lastModified="1585641972">
+  <timeline>
+    <DOMTimeline name="Symbol 10">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="redvirus.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.120529174804688" d="0.106231689453125" tx="-0.85" ty="-3.6"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="318.6" y="336.55"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="green2.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.149566650390625" d="0.169036865234375" tx="48" ty="10.4"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="264.45" y="288.4"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="redvirus.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.116424560546875" b="0.03118896484375" c="-0.027496337890625" d="0.102615356445313" tx="117.1" ty="-7.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="152.2" y="337.2"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

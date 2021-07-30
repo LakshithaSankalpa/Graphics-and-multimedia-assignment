@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 41" itemID="5e8ecd4d-000002d8" lastModified="1586416973">
+  <timeline>
+    <DOMTimeline name="Symbol 41">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="virus2.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.678314208984375" d="0.668792724609375" tx="-50.85" ty="-44.8"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="143.5" y="142.4"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="virus2.psd" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="0.678314208984375" d="0.668792724609375" tx="32.8" ty="-39.8"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="143.5" y="142.4"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
